@@ -7,4 +7,4 @@ def make_statement(statement, decoration):
 
 
 #Main Routine goes here
-make_statement(statementS="Programming is Fun!", decoration= "👍")
+make_statement(statement="Programming is Fun!", decoration= "👍")
